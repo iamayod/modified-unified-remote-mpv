@@ -1,4 +1,4 @@
-# Gnome MPV remote
+# MODIFIED Gnome MPV remote
 This repository contains a unified remote to control your Gnome MPV software.
 
 With this you can :
@@ -15,6 +15,8 @@ With this you can :
 
 
 ## Installation
+
+Unzip the folder into: C:\ProgramData\Unified Remote\Remotes\Bundled\Unified\Examples\
 
 Once you unzip the folder, open the unified remote server, go on settings, then remotes.
 On this page, you can add locations where unified remote will look for remotes. Add the Path of this project. Save and restart the server.
